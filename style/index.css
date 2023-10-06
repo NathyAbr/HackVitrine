@@ -127,11 +127,11 @@ strong{
 }
 .footer {
     background: linear-gradient(#94e4ff,#94e4ff, #94e4ff); /* Dégradé de couleur */
-    padding: 25px 0; /* ajout d'un espace intérieur pour le contenu */
-    position:fixed; /* position fixe au bas de la page */
-    width: 100%; /* largeur à 100% de la page */
-    bottom: 0; /* collé au bas de la page */
-  }
+    padding: 45px 0; 
+    text-align: center;
+    padding: 15px;
+      }
+    
 .container {
     margin : none;
     font-size: 1.6rem;
