@@ -8,8 +8,8 @@ body {
 }
 .navbar {
     background: linear-gradient(#94e4ff , #c799e6);
-    margin-left: 0; 
-    margin-right: 0; 
+    margin-left: 0;
+    margin-right: 0;
 }
 .navbar-brand {
     color: #4c067a;
@@ -46,9 +46,9 @@ div.col-md-8-d-flex-align-items-center {
 h1,h2 {
     color: #94e4ff;
     font-weight: bold;
-    background: linear-gradient(10deg, #6c00b3, #e6c9f9, #e6c9f9, #06c1ff,#06c1ff, #94e4ff); /* Dégradé de couleur */
-    -webkit-background-clip: text; /* Clip le dégradé sur le texte */
-    color: transparent; /* Rend le texte transparent pour montrer le dégradé en arrière-plan */
+    background: linear-gradient(10deg, #6c00b3, #e6c9f9, #e6c9f9, #06c1ff,#06c1ff, #94e4ff); 
+    -webkit-background-clip: text;
+    color: transparent;
     animation: bouger 2s ease-
 }
 h2{
@@ -97,23 +97,21 @@ footer {
 }
 
 .navbar {
-    background:#94e4ff 
-    /* Dégradé de couleur */
+    background:#94e4ff;
 }
 
 .navbar-dark .navbar-toggler-icon {
-    background-color: #fff; /* Couleur blanche pour l'icône du bouton de bascule */
+    background-color: #fff;
 }
 
 .navbar-nav .nav-link {
-    color: #4c067a; /* Couleur du texte pour les liens de navigation */
+    color: #4c067a;
 }
 .nav-link:hover, .navbar-nav.navbar-nav:hover {
-    color: #0613ff; 
- }
- 
+    color: #0613ff;
+}
 .navbar-nav .nav-link:hover {
-    color: rgb(251, 251, 251); /* Couleur du texte pour les liens de navigation au survol */
+    color: rgb(251, 251, 251); 
 }
 strong{
     color: #c799e6;
@@ -146,7 +144,7 @@ strong{
 } */
 
 /* .carousel-control-next, .carousel-control-prev {
-   background-color: #4f007d;
+background-color: #4f007d;
 } */
 .d-block {
     width: 80%;
