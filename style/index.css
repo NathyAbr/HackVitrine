@@ -39,6 +39,10 @@ p {
     width:900px ,900px;
 
 }
+/* .carousel-image {
+    height: 300px; 
+    object-fit: cover;
+} */
 div.col-md-8-d-flex-align-items-center {
     margin-top: 5%;
     margin-bottom: 5%;
